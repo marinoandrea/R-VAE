@@ -1,16 +1,14 @@
-
-
 const DRUM_CLASSES = [
-  'Kick',
-  'Snare',
-  'Hi-hat closed',
-  'Hi-hat open',
-  'Tom low',
-  'Tom mid',
-  'Tom high',
-  'Clap',
-  'Rim'
-]
+  "Kick",
+  "Snare",
+  "Hi-hat closed",
+  "Hi-hat open",
+  "Tom low",
+  "Tom mid",
+  "Tom high",
+  "Clap",
+  "Rim",
+];
 
 const MIDI_DRUM_MAP = {
   36: 0,
@@ -73,8 +71,8 @@ const MIDI_DRUM_MAP = {
   52: 8,
   53: 8,
   59: 8,
-  82: 8
-}
+  82: 8,
+};
 
 const NUM_DRUM_CLASSES = DRUM_CLASSES.length;
 const LOOP_DURATION = 96; // 2bars x 16th note
