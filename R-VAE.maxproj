@@ -42,7 +42,7 @@
         },
         "code": {        },
         "other": {
-            "M4L.RhythmVAE.maxproj": {
+            "R-VAE.maxproj": {
                 "kind": "project",
                 "local": 1
             }
@@ -68,7 +68,6 @@
         }
     },
     "detailsvisible": 1,
-    "amxdtype": 1835887981,
     "readonly": 0,
     "devpathtype": 0,
     "devpath": ".",
